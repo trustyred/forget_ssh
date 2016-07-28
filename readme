@@ -1,0 +1,4 @@
+when I change linux equipment ,I must install my git and connect with github,but I always forget the way to connect,so I want to write a shell to simplify the process.
+
+bug unresolve 1 : in self terminal can't bulid ".ssh"
+
